@@ -1,0 +1,30 @@
+ body
+  {
+    background-color:	#EAF6F6;
+    margin:0;
+
+  }
+  h1{
+    color:#66BFBF;
+
+  }
+  h2{
+
+    color:#66BFBF;
+  }
+
+hr{
+
+    border-style: dotted none none none;
+    height:0px;
+    width:10%;
+    border-width:5px;
+    border-color:grey;
+  
+  }
+img{
+    height: 200px;
+  }
+.skills{
+  margin:0;
+}
